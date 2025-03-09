@@ -4,7 +4,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Images](#images)
-* [Setup](#setup)
 * [Author](#author)
 
 ## General info
@@ -37,6 +36,3 @@ Pa$$w0rd
 ## Author
 * **Gosia Różańska** - [manaroz](https://github.com/manaroz)
 
-## Teacher
-* **Arkadiusz Wojtak** - *Academic teacher at the WSB Merito University Gdańsk* - THANKS!
-* **Neil Cummings** - *Course tutorial* - [TryCatchLearn](https://github.com/TryCatchLearn)- THANKS!
