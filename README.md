@@ -7,7 +7,7 @@
 * [Author](#author)
 
 ## General info
-YACHT@BOOK - an app made as part of studies. 
+YACHT@BOOK - an app made as part of my work
 	
 ## Technologies
 
